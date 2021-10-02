@@ -5,12 +5,6 @@ http://95.67.12.149:9005
 #EXTINF:-1,UA TV
 #EXTGRP:Украина
 http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,I-UA TV HD
-#EXTGRP:Украина
-http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
-#EXTINF:-1,UA:Перший
-#EXTGRP:Украина
-http://95.67.12.189:10056
 #EXTINF:-1,Первый независимый
 #EXTGRP:Украина
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
