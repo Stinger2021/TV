@@ -50,9 +50,6 @@ http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1,Інший
 #EXTGRP:Украина
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr-lq/playlist.m3u8
-#EXTINF:-1,СК1 HD
-#EXTGRP:Украина
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
 #EXTINF:-1,Обозреватель ТВ
 #EXTGRP:Украина
 https://player.obozrevatel.com/live1/stream.m3u8
