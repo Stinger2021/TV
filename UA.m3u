@@ -386,4 +386,28 @@ https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1,Фан Спорт 2.
 #EXTGRP:Спорт
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,Хрустальный
+#EXTGRP:Артек
+http://193.238.110.3/2/hls/live.m3u8
+#EXTINF:-1,Лазурный
+#EXTGRP:Артек
+http://193.238.110.3/7/hls/live.m3u8
+#EXTINF:-1,Кипарисный
+#EXTGRP:Артек
+http://193.238.110.3/9/hls/live.m3u8
+#EXTINF:-1,Янтарный
+#EXTGRP:Артек
+http://193.238.110.3/3/hls/live.m3u8
+#EXTINF:-1,Морской
+#EXTGRP:Артек
+http://193.238.110.3/1/hls/live.m3u8
+#EXTINF:-1,Лесной
+#EXTGRP:Артек
+http://193.238.110.3/5/hls/live.m3u8
+#EXTINF:-1,Речной
+#EXTGRP:Артек
+http://193.238.110.3/6/hls/live.m3u8
+#EXTINF:-1,Озёрный
+#EXTGRP:Артек
+http://193.238.110.3/8/hls/live.m3u8
 
