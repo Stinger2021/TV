@@ -287,6 +287,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир (+4)
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1,НТВ Мир
+#EXTGRP:Россия
+http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1,Астрахань 24
 #EXTGRP:Россия
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
