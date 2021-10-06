@@ -269,6 +269,15 @@ http://ott.inmart.tv:8081/35/index.m3u8
 #EXTINF:-1,6 канал Горловка
 #EXTGRP:Донбасс
 http://ott.inmart.tv:8081/223/index.m3u8
+#EXTINF:-1,Евроновости
+#EXTGRP:Россия
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,Настоящее Время
+#EXTGRP:Россия
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1,Первый канал "Евразия"
+#EXTGRP:Россия
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1,Известия
 #EXTGRP:Россия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
