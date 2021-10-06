@@ -374,6 +374,66 @@ https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1,Новое телевидение
 #EXTGRP:Казахстан
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,CBS News HD
+#EXTGRP:Зарубежные Новости
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
+#EXTINF:-1,CBS News
+#EXTGRP:Зарубежные Новости
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
+#EXTINF:-1,CBS News
+#EXTGRP:Зарубежные Новости
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
+#EXTINF:-1,Bloomberg (Middle East Edition)
+#EXTGRP:Зарубежные Новости
+https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1,CNBC
+#EXTGRP:Зарубежные Новости
+http://ott-cdn.ucom.am/s65/04.m3u8
+#EXTINF:-1,CBN NEWS
+#EXTGRP:Зарубежные Новости
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1,CBN
+#EXTGRP:Зарубежные Новости
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1,BBC World News
+#EXTGRP:Зарубежные Новости
+http://ott-cdn.ucom.am/s24/04.m3u8
+#EXTINF:-1,BBC World News
+#EXTGRP:Зарубежные Новости
+http://ott-cdn.ucom.am/s24/03.m3u8
+#EXTINF:-1,France 24 (ENG)
+#EXTGRP:Зарубежные Новости
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,ArmNews
+#EXTGRP:Зарубежные Новости
+http://ott-cdn.ucom.am/s11/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,Arirang TV (Корея)
+#EXTGRP:Зарубежные Новости
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,BFM Paris
+#EXTGRP:Зарубежные Новости
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+#EXTINF:-1,Tagesschau 24
+#EXTGRP:Зарубежные Новости
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1,Teleromagna 24 (IT)
+#EXTGRP:Зарубежные Новости
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,Tg Norba24 (IT)
+#EXTGRP:Зарубежные Новости
+http://flash5.streaming.xdevel.com/tgnorba_24/smil:tgnorba_24.smil/playlist.m3u8
+#EXTINF:-1,TV 2000 IT Vaticano
+#EXTGRP:Зарубежные Новости
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1,TLX HD (Arg)
+#EXTGRP:Зарубежные Новости
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
+#EXTINF:-1,WOW TV EL SALVADOR
+#EXTGRP:Зарубежные Новости
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,TV MOCAMBIQUE 1 (Mz)
+#EXTGRP:Зарубежные Новости
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,Фан Спорт
 #EXTGRP:Спорт
 https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
@@ -401,7 +461,27 @@ http://cdn1.live-tv.od.ua:8081/nemo/cam-kupol-720p/playlist.m3u8
 #EXTINF:-1,Одесса - Терасса
 #EXTGRP:Вебкамеры Одессы
 http://cdn1.live-tv.od.ua:8081/nemo/cam-terassa6-720p/playlist.m3u8
-
+#EXTINF:-1,Сочи 23 (пляж)
+#EXTGRP:Вебкамеры Сочи
+http://sochi.camera:8080/cam_38/index.m3u8
+#EXTINF:-1,Сочи 36 (пляж)
+#EXTGRP:Вебкамеры Сочи
+http://sochi.camera:8080/cam_80/index.m3u8
+#EXTINF:-1,Сочи 40 (пляж)
+#EXTGRP:Вебкамеры Сочи
+http://sochi.camera:8080/cam_85/index.m3u8
+#EXTINF:-1,Сочи 41 (пляж)
+#EXTGRP:Вебкамеры Сочи
+http://sochi.camera:8080/cam_87/index.m3u8
+#EXTINF:-1,Сочи 43 (пляж)
+#EXTGRP:Вебкамеры Сочи
+http://sochi.camera:8080/cam_86/index.m3u8
+#EXTINF:-1,Сочи 44 (пляж)
+#EXTGRP:Вебкамеры Сочи
+http://sochi.camera:8080/cam_88/index.m3u8
+#EXTINF:-1,Сочи 46 (пляж)
+#EXTGRP:Вебкамеры Сочи
+http://sochi.camera:8080/cam_89/index.m3u8
 #EXTINF:-1,Хрустальный
 #EXTGRP:Вебкамеры Артека
 http://193.238.110.3/2/hls/live.m3u8
