@@ -2,6 +2,9 @@
 #EXTINF:-1,Перший незалежний
 #EXTGRP:Украина
 https://live.pnk.tv/hls/pnk/hd.m3u8
+#EXTINF:-1,Перший незалежний
+#EXTGRP:Украина
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
 #EXTINF:-1,UKR Live HD
 #EXTGRP:Украина
 http://95.67.12.149:9005
@@ -17,6 +20,9 @@ http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1,НТА HD (Львів)
 #EXTGRP:Украина
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1,Рада
+#EXTGRP:Украина
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
 #EXTINF:-1,СТБ
 #EXTGRP:Украина
 http://51.15.176.84/hls/stb-online/index.m3u8
@@ -275,6 +281,9 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия РТР
 #EXTGRP:Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:-1,Москва 24
+#EXTGRP:Россия
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Мир 24 HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -356,9 +365,12 @@ https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1,Новое телевидение
 #EXTGRP:Казахстан
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1,Армения 1
-#EXTGRP:Армения
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1,Фан Спорт
+#EXTGRP:Спорт
+https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,Фан Спорт 2
+#EXTGRP:Спорт
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,Одесса - Аквабар
 #EXTGRP:Вебкамеры Одессы
 http://cdn1.live-tv.od.ua:8081/nemo/cam-lift7-720p/playlist.m3u8
@@ -380,34 +392,29 @@ http://cdn1.live-tv.od.ua:8081/nemo/cam-kupol-720p/playlist.m3u8
 #EXTINF:-1,Одесса - Терасса
 #EXTGRP:Вебкамеры Одессы
 http://cdn1.live-tv.od.ua:8081/nemo/cam-terassa6-720p/playlist.m3u8
-#EXTINF:-1,Фан Спорт.
-#EXTGRP:Спорт
-https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,Фан Спорт 2.
-#EXTGRP:Спорт
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1,Хрустальный
-#EXTGRP:Артек
+#EXTGRP:Вебкамеры Артека
 http://193.238.110.3/2/hls/live.m3u8
 #EXTINF:-1,Лазурный
-#EXTGRP:Артек
+#EXTGRP:Вебкамеры Артека
 http://193.238.110.3/7/hls/live.m3u8
 #EXTINF:-1,Кипарисный
-#EXTGRP:Артек
+#EXTGRP:Вебкамеры Артека
 http://193.238.110.3/9/hls/live.m3u8
 #EXTINF:-1,Янтарный
-#EXTGRP:Артек
+#EXTGRP:Вебкамеры Артека
 http://193.238.110.3/3/hls/live.m3u8
 #EXTINF:-1,Морской
-#EXTGRP:Артек
+#EXTGRP:Вебкамеры Артека
 http://193.238.110.3/1/hls/live.m3u8
 #EXTINF:-1,Лесной
-#EXTGRP:Артек
+#EXTGRP:Вебкамеры Артека
 http://193.238.110.3/5/hls/live.m3u8
 #EXTINF:-1,Речной
-#EXTGRP:Артек
+#EXTGRP:Вебкамеры Артека
 http://193.238.110.3/6/hls/live.m3u8
 #EXTINF:-1,Озёрный
-#EXTGRP:Артек
+#EXTGRP:Вебкамеры Артека
 http://193.238.110.3/8/hls/live.m3u8
 
