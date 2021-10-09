@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1,Перший незалежний
 #EXTGRP:Украина
 https://live.pnk.tv/hls/pnk/hd.m3u8
