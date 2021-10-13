@@ -1228,6 +1228,45 @@ https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1,Фан Спорт 2
 #EXTGRP:Спорт
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,Фан Спорт 3
+#EXTGRP:Спорт
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1,Qazs
+#EXTGRP:Спорт
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1,Red Bull TV
+#EXTGRP:Спорт
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,Астрахань.Ru Sport
+#EXTGRP:Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1,Астрахань.Ru Sport HD
+#EXTGRP:Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1,Al Kass Спортs 1 HD
+#EXTGRP:Спорт
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:-1,Alsace 20
+#EXTGRP:Спорт
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,Arryadia Спорт HD
+#EXTGRP:Спорт
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,Arryadia Спорт
+#EXTGRP:Спорт
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,Red Bull TV
+#EXTGRP:Спорт
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,TELE MONTE NEVE
+#EXTGRP:Спорт
+http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+#EXTINF:-1,Turkmen Спорт
+#EXTGRP:Спорт
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1,Футбол
+#EXTGRP:Спорт
+http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1,Одесса - Аквабар
 #EXTGRP:Вебкамеры Одессы
 http://cdn1.live-tv.od.ua:8081/nemo/cam-lift7-720p/playlist.m3u8
