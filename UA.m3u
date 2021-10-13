@@ -87,9 +87,6 @@ http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1,BTB+
 #EXTGRP:Украина
 http://video.vtvplus.com.ua:81/hls/online/index.m3u8
-#EXTINF:-1,Орбіта ТВ
-#EXTGRP:Украина
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1,Глас
 #EXTGRP:Украина
 https://glas.org.ua/hls/glassru.m3u8
@@ -273,6 +270,9 @@ http://playlist.hmara.tv/4a8a78be/698c36a192c0bf8280c41f5cd9c4ab2dd4c19cc8.m3u8
 #EXTINF:-1,Донбас Online HD UA
 #EXTGRP:Донбасс
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1,Орбіта ТВ
+#EXTGRP:Донбасс
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1,Первый республиканский
 #EXTGRP:Донбасс
 http://ott.inmart.tv:8081/18/index.m3u8
@@ -315,15 +315,6 @@ http://91.221.201.2:7100/play/a00h/index.m3u8
 #EXTINF:-1,RT Док
 #EXTGRP:Россия
 http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1,Евроновости
-#EXTGRP:Россия
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Настоящее Время
-#EXTGRP:Россия
-https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1,Настоящее Время HD
-#EXTGRP:Россия
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
 #EXTINF:-1,Москва 24
 #EXTGRP:Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
@@ -657,6 +648,15 @@ https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1,Новое телевидение
 #EXTGRP:Казахстан
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,Евроновости
+#EXTGRP:Зарубежные Новости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,Настоящее Время
+#EXTGRP:Зарубежные Новости
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1,Настоящее Время HD
+#EXTGRP:Зарубежные Новости
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
 #EXTINF:-1,France 24 (ENG)
 #EXTGRP:Зарубежные Новости
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
