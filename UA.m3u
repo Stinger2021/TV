@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 #EXTINF:-1,Перший Незалежний
 #EXTGRP:Украина
 http://live.pnk.tv/hls/pnk/hd.m3u8
