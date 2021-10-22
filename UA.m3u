@@ -1217,6 +1217,9 @@ http://188.232.102.173:9981/stream/channelid/1197373418
 #EXTINF:-1,TV 1000 Action FHD
 #EXTGRP:Кино
 http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1,UFC TV
+#EXTGRP:Спорт
+https://st4.allplay.uz/iptv/116/tracks-v1a1/index.m3u8?t=fiksnLMC-n8nSqZ-PjMltQ&e=1634913036
 #EXTINF:-1,NBA TV
 #EXTGRP:Спорт
 http://178.212.236.3:8003/NBA/index.m3u8
