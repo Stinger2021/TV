@@ -889,6 +889,39 @@ http://188.232.102.173:9981/stream/channelid/1197373418
 #EXTINF:-1,TV 1000 Action FHD
 #EXTGRP:Кино
 http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1,SCI-FI
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1,BLACK
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1,A HIT HD 1080p
+#EXTGRP:Кино
+http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
+#EXTINF:-1,A HIT HD
+#EXTGRP:Кино
+http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
+#EXTINF:-1,A Premium HD
+#EXTGRP:Кино
+http://46.34.209.243:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1,A1 HD
+#EXTGRP:Кино
+http://46.34.209.243:80/btv/SWM/A1/A1_720p_3500kbps.m3u8
+#EXTINF:-1,A1 HD 1080
+#EXTGRP:Кино
+http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+#EXTINF:-1,A2 HD
+#EXTGRP:Кино
+http://46.34.209.243:80/btv/SWM/A2/A2.m3u8
+#EXTINF:-1,A2 576p
+#EXTGRP:Кино
+http://46.34.209.243:80/btv/SWM/A2/A2_576p_2000kbps.m3u8
+#EXTINF:-1,Hollywood
+#EXTGRP:Кино
+http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+#EXTINF:-1,Hollywood HD
+#EXTGRP:Кино
+http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood.m3u8
 #EXTINF:-1,Star Cinema HD
 #EXTGRP:Кино
 http://95.67.12.94:9001
@@ -946,12 +979,6 @@ http://cache2.multiscreen.moldtelecom.md:80/live/eds/indijskoe_kino_sd/HLSv3/ind
 #EXTINF:-1,RED HD
 #EXTGRP:Кино
 http://188.232.102.173:9981/stream/channelid/927635997
-#EXTINF:-1,SCI-FI
-#EXTGRP:Кино
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-#EXTINF:-1,BLACK
-#EXTGRP:Кино
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1,Ностальгия
 #EXTGRP:Кино
 http://188.232.102.173:9981/stream/channelid/587689351
@@ -1084,33 +1111,6 @@ http://31.131.191.7:8000/play/a012
 #EXTINF:-1,КЛЮЧ
 #EXTGRP:Кино
 http://31.131.191.7:8000/play/a02q
-#EXTINF:-1,A HIT HD 1080p
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
-#EXTINF:-1,A HIT HD
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
-#EXTINF:-1,A Premium HD
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
-#EXTINF:-1,A1 HD
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/A1/A1_720p_3500kbps.m3u8
-#EXTINF:-1,A1 HD 1080
-#EXTGRP:Кино
-http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
-#EXTINF:-1,A2 HD
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/A2/A2.m3u8
-#EXTINF:-1,A2 576p
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/A2/A2_576p_2000kbps.m3u8
-#EXTINF:-1,Hollywood
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
-#EXTINF:-1,Hollywood HD
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood.m3u8
 #EXTINF:-1,Paramount Comedy
 #EXTGRP:Кино
 http://176.197.77.101:81/udp/239.255.42.16:1234
