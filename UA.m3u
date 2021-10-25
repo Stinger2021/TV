@@ -1337,4 +1337,64 @@ https://stream.dpsu.gov.ua:5101/publicLive/213/mainStream?dvr=false&proto=hls&au
 #EXTINF:-1,Крим КПВВ Каланчак
 #EXTGRP:Кордон України
 https://stream.dpsu.gov.ua:5101/publicLive/221/substream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Білорусь Доманове - Мокрани
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/205/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Білорусь Виступовичі - Нова Рудня
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/209/mainStream
+#EXTINF:-1,Білорусь Нові Яриловичі - Нова Гута
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/201/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Білорусь Сеньківка - Веселівка
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/203/mainStream?dvr=false&proto=hls
+#EXTINF:-1,Росія Бачівськ - Троєбортне
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/211/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Молдова Кучурган - Первомайськ
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/170/mainStream
+#EXTINF:-1,Молдова Мамалига - Крива
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/172/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Румунія Порубне - Сірет
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/174/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Румунія Дякове - Халмеу
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/176/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Угорщина Лужанка - Берегшурань
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/224/substream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Угорщина Чоп (Тиса) - Захонь
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/178/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Словаччина Ужгород - Вишнє-Нємецьке
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/198/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Словаччина Ужгород - Вишнє-Нємецьке (вантажний)
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/227/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Польща Смільниця - Кросьценко
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/184/substream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Польща Рава-Руська - Хребенне
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/186/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Польща Грушів - Будомєж
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/188/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Польща Устилуг - Зосін
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/190/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Польща Краківець - Корчова
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/192/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Польща Шегині - Медика
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/194/mainStream?dvr=false&proto=hls&autoplay=true
+#EXTINF:-1,Польща Ягодин - Дорогуськ
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/196/mainStream?dvr=false&proto=hls&autoplay=true
 
