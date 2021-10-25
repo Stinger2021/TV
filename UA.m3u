@@ -5,9 +5,6 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1,Настоящее Время
 #EXTGRP:Зарубежные Новости
 https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1,Настоящее Время HD
-#EXTGRP:Зарубежные Новости
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
 #EXTINF:-1,France 24 (ENG)
 #EXTGRP:Зарубежные Новости
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -41,9 +38,6 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1,Teleromagna 24 (IT)
 #EXTGRP:Зарубежные Новости
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1,ArmNews
-#EXTGRP:Зарубежные Новости
-http://ott-cdn.ucom.am/s11/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,Arirang TV (Корея)
 #EXTGRP:Зарубежные Новости
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
