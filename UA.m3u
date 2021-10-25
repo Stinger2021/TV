@@ -1331,4 +1331,7 @@ http://193.238.110.3/6/hls/live.m3u8
 #EXTINF:-1,Озёрный
 #EXTGRP:Вебкамеры Артека
 http://193.238.110.3/8/hls/live.m3u8
+#EXTINF:-1,КПВВ Чонгар
+#EXTGRP:Кордон України
+https://stream.dpsu.gov.ua:5101/publicLive/213/mainStream?dvr=false&proto=hls&autoplay=true
 
