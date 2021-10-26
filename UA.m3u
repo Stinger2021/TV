@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 #EXTINF:-1,Евроновости
 #EXTGRP:Зарубежные Новости
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 mag250, mag250 SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0 Mozilla/5.0
 http://92.43.140.249/s89/04.m3u8
 #EXTINF:-1,Евроновости
 #EXTGRP:Зарубежные Новости
