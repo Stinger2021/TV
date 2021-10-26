@@ -719,11 +719,11 @@ https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1,Новое телевидение
 #EXTGRP:Казахстан
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1,Радио Свободы (arm.)
+#EXTINF:-1,Радио Свободы_1 (arm.)
 #EXTVLCOPT:http-user-agent=smartlabs
 #EXTGRP:Армения
 http://ott-cdn.ucom.am/s3/04.m3u8
-#EXTINF:-1,Arm News
+#EXTINF:-1,Arm News_1
 #EXTGRP:Армения
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s11/04.m3u8
