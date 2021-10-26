@@ -19,7 +19,7 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/stream
 #EXTGRP:Зарубежные Новости
 http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:-1,Rai 1
-#EXTGRP:Армения
+#EXTGRP:Зарубежные Новости
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1,CNBC
