@@ -372,6 +372,10 @@ http://ott.inmart.tv:8081/35/index.m3u8
 http://ott.inmart.tv:8081/223/index.m3u8
 #EXTINF:-1,Первый канал
 #EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1,Первый канал
+#EXTGRP:Россия
 http://91.221.201.2:7100/play/1/index.m3u8
 #EXTINF:-1,Первый канал "Евразия"
 #EXTGRP:Россия
@@ -385,12 +389,36 @@ https://a3569455792-s26881.cdn.ngenix.net/hls/russia1_plus5/playlist_3.m3u8
 #EXTINF:-1,Россия РТР
 #EXTGRP:Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,PLANETA PTP
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:-1,Известия
 #EXTGRP:Россия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,PБК
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s36/04.m3u8
+#EXTINF:-1,РЕН ТВ
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:-1,ТВЦ
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s54/04.m3u8
 #EXTINF:-1,НТВ
 #EXTGRP:Россия
 http://91.221.201.2:7100/play/a00h/index.m3u8
+#EXTINF:-1,НТВ Мир
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1,RTᴰ
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s93/04.m3u8
 #EXTINF:-1,RT Док
 #EXTGRP:Россия
 http://rtmp.api.rt.com/hls/rtdru.m3u8
