@@ -79,10 +79,13 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
 #EXTINF:-1,CBS News
 #EXTGRP:Зарубежные Новости
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-#EXTINF:-1,Перший Незалежний
+#EXTINF:-1,UKR Live HD
 #EXTGRP:Украина
 http://live.pnk.tv/hls/pnk/hd.m3u8
-#EXTINF:-1,Перший незалежний
+#EXTINF:-1,UKR Live HD
+#EXTGRP:Украина
+http://95.67.12.149:9005
+#EXTINF:-1,UKR Live
 #EXTGRP:Украина
 http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
 #EXTINF:-1,UA Перший
@@ -97,9 +100,6 @@ http://91.235.69.230:10044
 #EXTINF:-1,Рада ТВ
 #EXTGRP:Украина
 http://rada-rtmp.adamant.net/hls/rada.m3u8
-#EXTINF:-1,UKR Live HD
-#EXTGRP:Украина
-http://95.67.12.149:9005
 #EXTINF:-1,UA TV
 #EXTGRP:Украина
 http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
@@ -377,18 +377,33 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1,Первый канал
 #EXTGRP:Россия
 http://91.221.201.2:7100/play/1/index.m3u8
+#EXTINF:-1,Первый канал
+#EXTGRP:Россия
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8$OPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+#EXTINF:-1,Первый канал +2
+#EXTGRP:Россия
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/bw2000000/variant.m3u8$OPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+#EXTINF:-1,Первый канал +7
+#EXTGRP:Россия
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8$OPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 #EXTINF:-1,Первый канал "Евразия"
 #EXTGRP:Россия
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1,Россия 24 HD
 #EXTGRP:Россия
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Россия 1HD
+#EXTGRP:Россия
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
 #EXTINF:-1,Россия 1
 #EXTGRP:Россия
 https://a3569455792-s26881.cdn.ngenix.net/hls/russia1_plus5/playlist_3.m3u8
 #EXTINF:-1,Россия РТР
 #EXTGRP:Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия РТР
+#EXTGRP:Россия
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,PLANETA PTP
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=smartlabs
@@ -400,6 +415,18 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s36/04.m3u8
+#EXTINF:-1,Дума ТВ
+#EXTGRP:Россия
+http://dumatv.mediacdn.ru/cdn/dumatv/playlist_sdhigh.m3u8
+#EXTINF:-1,Вместе РФ HD
+#EXTGRP:Россия
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1,Brics TV HD
+#EXTGRP:Россия
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1,CGTN Русский
+#EXTGRP:Россия
+https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1,РЕН ТВ
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=smartlabs
@@ -408,6 +435,10 @@ http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s54/04.m3u8
+#EXTINF:-1,НТВ +2(P)
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_KRDAR_NTV_KRR/variant.m3u8$OPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 #EXTINF:-1,НТВ
 #EXTGRP:Россия
 http://91.221.201.2:7100/play/a00h/index.m3u8
@@ -431,9 +462,9 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1,360 Новости
 #EXTGRP:Россия
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
-#EXTINF:-1,Дума ТВ
+#EXTINF:-1,ТВР 24 (Сергиев Посад)
 #EXTGRP:Россия
-http://dumatv.mediacdn.ru/cdn/dumatv/playlist_sdhigh.m3u8
+https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
 #EXTINF:-1,ТВЦ
 #EXTGRP:Россия
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
@@ -491,6 +522,15 @@ http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8
 #EXTINF:-1,Sochi 24 HD
 #EXTGRP:Россия
 http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
+#EXTINF:-1,Кубань 24
+#EXTGRP:Россия
+https://rt-sth-krdar-htlive-lb.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8$OPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+#EXTINF:-1,Дон 24
+#EXTGRP:Россия
+https://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8$OPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+#EXTINF:-1,Камчатка 1
+#EXTGRP:Россия
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8$OPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 #EXTINF:-1,Запад 24
 #EXTGRP:Россия
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8
@@ -1537,6 +1577,9 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1,VIP Comedy
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1,Eurosport HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8$OPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 #EXTINF:-1,NBA TV
 #EXTGRP:Спорт
 http://178.212.236.3:8003/NBA/index.m3u8
