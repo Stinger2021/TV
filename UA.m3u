@@ -343,6 +343,78 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1,Перший незалежний HD
 #EXTGRP:Украина
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,Інтер
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10001
+#EXTINF:-1,СТБ
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10023
+#EXTINF:-1,1+1
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10003
+#EXTINF:-1,UA:Перший
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10006
+#EXTINF:-1,Україна
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10002
+#EXTINF:-1,Україна 24
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10044
+#EXTINF:-1,LIVE
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10048
+#EXTINF:-1,Радіо Свободи
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10043
+#EXTINF:-1,Прямий
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10028
+#EXTINF:-1,5
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10041
+#EXTINF:-1,НТН
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10004
+#EXTINF:-1,К1
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10005
+#EXTINF:-1,К2
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10025
+#EXTINF:-1,ICTV
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10007
+#EXTINF:-1,Новий
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10026
+#EXTINF:-1,ZOOM
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10021
+#EXTINF:-1,ТЕТ
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10024
+#EXTINF:-1,Індиго tv
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10022
+#EXTINF:-1,е - фільм
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10008
+#EXTINF:-1,Київ
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10047
+#EXTINF:-1,UA:Київ
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10045
+#EXTINF:-1,UA:культура
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10042
+#EXTINF:-1,Муз тв
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10027
+#EXTINF:-1,???
+#EXTGRP:Київ telegroup.kiev.ua
+http://91.235.69.230:10046
 #EXTINF:-1,Донеччина TV UA
 #EXTGRP:Донбасс
 http://playlist.hmara.tv/4a8a78be/698c36a192c0bf8280c41f5cd9c4ab2dd4c19cc8.m3u8
