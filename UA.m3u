@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#EXTINF:-1,Радіо Свобода архив
+#EXTGRP:Україна YouTube
+https://www.youtube.com/channel/UC7qnYpVcuFbURi3E2E6_f6Q
 #EXTINF:-1,UkrLive
 #EXTGRP:Україна YouTube
 https://youtu.be/Q-g2gHLm6MU
