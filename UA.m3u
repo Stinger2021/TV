@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#EXTINF:-1,UKRlive
+#EXTGRP:Зарубежные Новости
+https://youtu.be/Q-g2gHLm6MU.m3u8
 #EXTINF:-1,Евроновости
 #EXTGRP:Зарубежные Новости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
