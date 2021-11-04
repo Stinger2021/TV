@@ -516,9 +516,6 @@ http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s54/04.m3u8
-#EXTINF:-1,НТВ+2
-#EXTGRP:Россия
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_KRDAR_NTV_KRR/variant.m3u
 #EXTINF:-1,НТВ
 #EXTGRP:Россия
 http://91.221.201.2:7100/play/a00h/index.m3u8
@@ -526,7 +523,7 @@ http://91.221.201.2:7100/play/a00h/index.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1,RTᴰ
+#EXTINF:-1,RT Dok
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s93/04.m3u8
@@ -584,21 +581,6 @@ http://178.124.152.238:8088/tnt
 #EXTINF:-1,ТНТ
 #EXTGRP:Россия
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1,НТВ Хит/Ялта 24
-#EXTGRP:Россия
-http://fwryalta.trkcrimea.ru/yalta.m3u8
-#EXTINF:-1,ТРК Тонус (Саки)
-#EXTGRP:Россия
-http://171.25.175.68:888/tonus
-#EXTINF:-1,ТРК 555 (Алушта)
-#EXTGRP:Россия
-http://trk555.tv:8888/live
-#EXTINF:-1,Севастополь ТВ
-#EXTGRP:Россия
-http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
-#EXTINF:-1,Севастополь 24
-#EXTGRP:Россия
-http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8
 #EXTINF:-1,Sochi 24 HD
 #EXTGRP:Россия
 http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
