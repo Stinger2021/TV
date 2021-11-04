@@ -409,10 +409,16 @@ https://river-1-301.rutube.ru/stream/musang-401.dp.rutube.ru/RJ7_YtKLmTsAexNctwC
 #EXTINF:-1,1 Крым RuTube
 #EXTGRP:Крым 
 https://river-1-301.rutube.ru/stream/musang-401.dp.rutube.ru/RJ7_YtKLmTsAexNctwC2zA/1636037639/3bbbfe178e58ca0830a701e0624f20d8/720p_stream.m3u8
+#EXTINF:-1,1 Крым SD RuTube
+#EXTGRP:Крым 
+https://river-1-301.rutube.ru/stream/musang-401.dp.rutube.ru/RJ7_YtKLmTsAexNctwC2zA/1636037639/3bbbfe178e58ca0830a701e0624f20d8/360p_stream.m3u8
 #EXTINF:-1,Крым 24 HD RuTube
 #EXTGRP:Крым 
 https://video-1-3.rutube.ru/stream/musang-403.dp.rutube.ru/LDUbihmj-ANGpW-dCapSIA/1636038610/261339ca4f1396ea0271d07364bd99dd/1080p_stream.m3u8
 #EXTINF:-1,Крым 24 RuTube
+#EXTGRP:Крым 
+https://video-1-3.rutube.ru/stream/musang-403.dp.rutube.ru/LDUbihmj-ANGpW-dCapSIA/1636038610/261339ca4f1396ea0271d07364bd99dd/360p_stream.m3u8
+#EXTINF:-1,Крым 24 SD RuTube
 #EXTGRP:Крым 
 https://video-1-3.rutube.ru/stream/musang-403.dp.rutube.ru/LDUbihmj-ANGpW-dCapSIA/1636038610/261339ca4f1396ea0271d07364bd99dd/720p_stream.m3u8
 #EXTINF:-1,Севастополь 24
