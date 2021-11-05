@@ -403,24 +403,6 @@ http://91.235.69.230:10042
 #EXTINF:-1,Муз тв
 #EXTGRP:Київ TELEGROUP-UKRAINE
 http://91.235.69.230:10027
-#EXTINF:-1,1 Крым HD RuTube
-#EXTGRP:Крым 
-https://river-1-301.rutube.ru/stream/musang-401.dp.rutube.ru/RJ7_YtKLmTsAexNctwC2zA/1636037639/3bbbfe178e58ca0830a701e0624f20d8/1080p_stream.m3u8
-#EXTINF:-1,1 Крым RuTube
-#EXTGRP:Крым 
-https://river-1-301.rutube.ru/stream/musang-401.dp.rutube.ru/RJ7_YtKLmTsAexNctwC2zA/1636037639/3bbbfe178e58ca0830a701e0624f20d8/720p_stream.m3u8
-#EXTINF:-1,1 Крым SD RuTube
-#EXTGRP:Крым 
-https://river-1-301.rutube.ru/stream/musang-401.dp.rutube.ru/RJ7_YtKLmTsAexNctwC2zA/1636037639/3bbbfe178e58ca0830a701e0624f20d8/360p_stream.m3u8
-#EXTINF:-1,Крым 24 HD RuTube
-#EXTGRP:Крым 
-https://video-1-3.rutube.ru/stream/musang-403.dp.rutube.ru/LDUbihmj-ANGpW-dCapSIA/1636038610/261339ca4f1396ea0271d07364bd99dd/1080p_stream.m3u8
-#EXTINF:-1,Крым 24 RuTube
-#EXTGRP:Крым 
-https://video-1-3.rutube.ru/stream/musang-403.dp.rutube.ru/LDUbihmj-ANGpW-dCapSIA/1636038610/261339ca4f1396ea0271d07364bd99dd/360p_stream.m3u8
-#EXTINF:-1,Крым 24 SD RuTube
-#EXTGRP:Крым 
-https://video-1-3.rutube.ru/stream/musang-403.dp.rutube.ru/LDUbihmj-ANGpW-dCapSIA/1636038610/261339ca4f1396ea0271d07364bd99dd/720p_stream.m3u8
 #EXTINF:-1,Севастополь 24
 #EXTGRP:Крым 
 http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8
@@ -1001,7 +983,7 @@ http://ott-cdn.ucom.am/s54/04.m3u8
 #EXTGRP:Армения
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1,RTᴰ
+#EXTINF:-1,RT Doc
 #EXTGRP:Армения
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s93/04.m3u8
