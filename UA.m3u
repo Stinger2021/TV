@@ -334,75 +334,6 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1,Перший незалежний HD
 #EXTGRP:Украина
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1,Інтер
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10001
-#EXTINF:-1,СТБ
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10023
-#EXTINF:-1,1+1
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10003
-#EXTINF:-1,UA:Перший
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10006
-#EXTINF:-1,Україна
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10002
-#EXTINF:-1,Україна 24
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10044
-#EXTINF:-1,LIVE
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10048
-#EXTINF:-1,Радіо Свободи
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10043
-#EXTINF:-1,Прямий
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10028
-#EXTINF:-1,5
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10041
-#EXTINF:-1,НТН
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10004
-#EXTINF:-1,К1
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10005
-#EXTINF:-1,К2
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10025
-#EXTINF:-1,ICTV
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10007
-#EXTINF:-1,Новий
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10026
-#EXTINF:-1,ZOOM
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10021
-#EXTINF:-1,ТЕТ
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10024
-#EXTINF:-1,Індиго tv
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10022
-#EXTINF:-1,е - фільм
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10008
-#EXTINF:-1,Київ
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10047
-#EXTINF:-1,UA:Київ
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10045
-#EXTINF:-1,UA:культура
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10042
-#EXTINF:-1,Муз тв
-#EXTGRP:Київ TELEGROUP-UKRAINE
-http://91.235.69.230:10027
 #EXTINF:-1,Севастополь 24
 #EXTGRP:Крым 
 http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8
@@ -1537,6 +1468,9 @@ http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1,Футбол
 #EXTGRP:Спорт
 http://ott-cdn.ucom.am/s41/04.m3u8
+#EXTINF:-1,UFC TV
+#EXTGRP:Спорт
+http://50.7.231.221:8081/232/index.m3u8?wmsAuthSign=1638193052p332i252i252i08S8d5f6ef693fa913118abc4288deac1d9
 #EXTINF:-1,Одесса - Аквабар
 #EXTGRP:Вебкамеры Одессы
 http://cdn1.live-tv.od.ua:8081/nemo/cam-lift7-720p/playlist.m3u8
