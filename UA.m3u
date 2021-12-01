@@ -103,6 +103,9 @@ http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1,НТА HD (Львів)
 #EXTGRP:Украина
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1,НТА (Львів)
+#EXTGRP:Украина
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
 #EXTINF:-1,Рада
 #EXTGRP:Украина
 http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
@@ -244,7 +247,7 @@ http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
 #EXTINF:-1,Дніпро TV
 #EXTGRP:Украина
 http://playlist.hmara.tv/4a8a78be/b45a4653c36816b0a3f48b9b106542e737af7bc6.m3u8
-#EXTINF:-1,,ИРТ,,.png",,ИРТ,,.png",ИРТ (Днепр)
+#EXTINF:-1,ИРТ (Днепр)
 #EXTGRP:Украина
 http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
 #EXTINF:-1,Первый Городской HD (Кривий Ріг)
