@@ -1474,6 +1474,9 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1,UFC TV
 #EXTGRP:Спорт
 http://50.7.231.221:8081/232/index.m3u8?wmsAuthSign=1638193052p332i252i252i08S8d5f6ef693fa913118abc4288deac1d9
+#EXTINF:-1,UFC TV
+#EXTGRP:Спорт
+http://50.7.231.220:8081/232/index.m3u8?wmsAuthSign=1638146597p332i252i252i08Sb36ba774e4c9f296c94f07fcc5d10dac
 #EXTINF:-1,Одесса - Аквабар
 #EXTGRP:Вебкамеры Одессы
 http://cdn1.live-tv.od.ua:8081/nemo/cam-lift7-720p/playlist.m3u8
