@@ -2495,7 +2495,10 @@ https://stream.dpsu.gov.ua:5101/publicLive/194/mainStream?dvr=false&proto=hls&au
 https://stream.dpsu.gov.ua:5101/publicLive/196/mainStream?dvr=false&proto=hls&autoplay=true
 #EXTINF:-1,UkrLive
 #EXTGRP:Україна YouTube
-https://youtu.be/Q-g2gHLm6MU
+https://youtu.be/Y8RX2QW61Cc
+#EXTINF:-1,UkrLive
+#EXTGRP:Україна YouTube
+https://youtu.be/4ZTJOXtfUho
 #EXTINF:-1,НАШ
 #EXTGRP:Україна YouTube
 https://youtu.be/ErX-LbZW-zE
