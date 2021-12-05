@@ -286,6 +286,9 @@ http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1,Izmail
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1,ІТЗ ТВ
+#EXTGRP:Украина
+http://cdn10.live-tv.od.ua:8081/it3od/720p/chunks.m3u8
 #EXTINF:-1,Simon
 #EXTGRP:Украина
 http://hls.simon.ua/live-HD/live/playlist.m3u8
