@@ -1429,6 +1429,9 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1,VIP Comedy
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1,UFC TV
+#EXTGRP:Спорт	
+http://50.7.231.220:8081/232/index.m3u8?wmsAuthSign=1639630528p332i252i252i08S065bd49d264713019951d737579ed983
 #EXTINF:-1,Eurosport HD
 #EXTGRP:Спорт
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
@@ -1483,9 +1486,6 @@ http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1,Футбол
 #EXTGRP:Спорт
 http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1,UFC TV
-#EXTGRP:Спорт	
-http://50.7.231.220:8081/232/index.m3u8?wmsAuthSign=1639630528p332i252i252i08S065bd49d264713019951d737579ed983
 #EXTINF:-1,Одесса - Аквабар
 #EXTGRP:Вебкамеры Одессы
 http://cdn1.live-tv.od.ua:8081/nemo/cam-lift7-720p/playlist.m3u8
