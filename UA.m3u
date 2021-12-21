@@ -1429,8 +1429,8 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1,VIP Comedy
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1,UFC TV
-#EXTGRP:Спорт
+#EXTINF:-1,UFC ТВ
+#EXTGRP:Спорт	
 http://50.7.231.220:8081/232/index.m3u8?wmsAuthSign=1639630528p332i252i252i08S065bd49d264713019951d737579ed983
 #EXTINF:-1,Бокс ТВ
 #EXTGRP:Спорт
@@ -2671,7 +2671,7 @@ https://youtu.be/88tf0H1ycDU
 #EXTINF:-1,CGTN Europe
 #EXTGRP:Зарубежные новости YouTube
 https://youtu.be/GgPvrIdzFoM
-#EXTINF:-1,HTB北海道ニュース
+#EXTINF:-1,HTB
 #EXTGRP:Зарубежные новости YouTube
 https://youtu.be/Ga08Th8LDzU
 #EXTINF:-1,franceinfo
@@ -2794,3 +2794,36 @@ https://youtu.be/_fEFwOp2wLE
 #EXTINF:-1,Austria
 #EXTGRP:Stream YouTube
 https://youtu.be/1H3Z3G8FV8g
+#EXTINF:-1,Новый канал
+#EXTGRP:Украина
+http://50.7.161.18:8081/573/index.m3u8?wmsAuthSign=1640142424p332i252i252i08S2d5fddfd7ed55db0af4ddb7da4b2605e
+#EXTINF:-1,ТВЦ
+#EXTGRP:Россия
+http://50.7.161.18:8081/548/index.m3u8?wmsAuthSign=1640142535p332i252i252i08S3b15d7b7fdc13f80cbced6197c202d5b
+#EXTINF:-1,Пятый канал
+#EXTGRP:Россия
+http://50.7.161.18:8081/524/index.m3u8?wmsAuthSign=1640142656p332i252i252i08Se350daa8202760eadc50581d290323b5
+#EXTINF:-1,Крым 1
+#EXTGRP:Россия
+http://50.7.161.18:8081/533/index.m3u8?wmsAuthSign=1640142696p332i252i252i08Sc45d7412a497140af0f05b2d96b2fb32
+#EXTINF:-1,Дикая Охота HD
+#EXTGRP:Спорт
+http://50.7.161.18:8081/527/index.m3u8?wmsAuthSign=1640142872p332i252i252i08S2349daae2d0b663e650e5e8eef3931b3
+#EXTINF:-1,24 Телеканал новин
+#EXTGRP:Украина
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1,Спорт 2
+#EXTGRP:Спорт
+http://50.7.231.221:8081/151/index.m3u8?wmsAuthSign=1640143006p332i252i252i08Se31a52fda1c3e6217f403428a1698f5b
+#EXTINF:-1,СоюзМультфильм
+#EXTGRP:Развлекательные
+http://50.7.161.18:8081/511/index.m3u8?wmsAuthSign=1640143045p332i252i252i08Sfe4ffd1cee101a6401ef75033727754b
+#EXTINF:-1,OTV Music
+#EXTGRP:Развлекательные
+http://50.7.231.221:8081/166/index.m3u8?wmsAuthSign=1640143091p332i252i252i08Sd4a7037d44cdbefcc87113ed191dce38
+#EXTINF:-1,Т24
+#EXTGRP:Развлекательные
+http://50.7.231.221:8081/116/index.m3u8?wmsAuthSign=1640143147p332i252i252i08S0df00ecb3c73f2b427867a265bdf10ef
+#EXTINF:-1,Bridge TV Hits
+#EXTGRP:Развлекательные
+http://50.7.231.221:8081/217/index.m3u8?wmsAuthSign=1640143200p332i252i252i08Sebf01f566c05fc45a404dc406b910030
