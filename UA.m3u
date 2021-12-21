@@ -1432,6 +1432,15 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:-1,UFC TV
 #EXTGRP:Спорт
 http://50.7.231.220:8081/232/index.m3u8?wmsAuthSign=1639630528p332i252i252i08S065bd49d264713019951d737579ed983
+#EXTINF:-1,Бокс ТВ
+#EXTGRP:Спорт
+http://50.7.161.20:8081/525/index.m3u8?wmsAuthSign=1640129025p332i252i252i08Sdccbb8be36b21692ad534b587809c22c
+#EXTINF:-1,Спорт UZ
+#EXTGRP:Спорт
+http://50.7.161.20:8081/518/index.m3u8?wmsAuthSign=1640129120p332i252i252i08Sdb282bc59ac6478e37f703987b0d38fe
+#EXTINF:-1,QazSport
+#EXTGRP:Спорт
+http://50.7.161.20:8081/515/index.m3u8?wmsAuthSign=1640129302p332i252i252i08Sa3f62cf919c364abb447239c3126c46a
 #EXTINF:-1,Eurosport HD
 #EXTGRP:Спорт
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
