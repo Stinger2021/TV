@@ -2434,6 +2434,18 @@ http://193.238.110.3/6/hls/live.m3u8
 #EXTINF:-1,Озёрный
 #EXTGRP:Вебкамеры Артека
 http://193.238.110.3/8/hls/live.m3u8
+#EXTINF:-1,Web-Камера Apelsin Fusion-Cafe
+#EXTGRP:Вебкамеры Ялта
+https://youtu.be/xpverb48RPs
+#EXTINF:-1,Web-Камера Apelsin Пляж Cafe
+#EXTGRP:Вебкамеры Ялта
+https://youtu.be/tkWAPrGMCM4
+#EXTINF:-1,Web-Камера Apelsin Пряности и Страсти Очаг
+#EXTGRP:Вебкамеры Ялта
+https://youtu.be/LakKxOPlEnE
+#EXTINF:-1,Web-Камера Apelsin Пряности и Страсти
+#EXTGRP:Вебкамеры Ялта
+https://youtu.be/Hgouvz1Jlfw
 #EXTINF:-1,Крим КПВВ Чонгар
 #EXTGRP:Кордон України
 https://stream.dpsu.gov.ua:5101/publicLive/213/mainStream?dvr=false&proto=hls&autoplay=true
@@ -2503,6 +2515,12 @@ https://stream.dpsu.gov.ua:5101/publicLive/196/mainStream?dvr=false&proto=hls&au
 #EXTINF:-1,UkrLive
 #EXTGRP:Україна YouTube
 https://youtu.be/Y8RX2QW61Cc
+#EXTINF:-1,UkrLive
+#EXTGRP:Україна YouTube
+https://www.youtube.com/channel/UCill2Ekj5IGEGJzTo2R12xw
+#EXTINF:-1,UKRLIFE.TV
+#EXTGRP:Україна YouTube
+https://youtu.be/fyUwgRlb7qg	
 #EXTINF:-1,UkrLive
 #EXTGRP:Україна YouTube
 https://youtu.be/4ZTJOXtfUho
@@ -2671,6 +2689,9 @@ https://youtu.be/88tf0H1ycDU
 #EXTINF:-1,CGTN Europe
 #EXTGRP:Зарубежные новости YouTube
 https://youtu.be/GgPvrIdzFoM
+#EXTINF:-1,YTN news
+#EXTGRP:Зарубежные новости YouTube
+https://youtu.be/GoXPbGQl-uQ
 #EXTINF:-1,HTB
 #EXTGRP:Зарубежные новости YouTube
 https://youtu.be/Ga08Th8LDzU
@@ -2722,6 +2743,9 @@ https://youtu.be/kyZBy84Ct_E
 #EXTINF:-1,Ponte delle Guglie Venice
 #EXTGRP:Stream YouTube
 https://youtu.be/HpZAez2oYsA
+#EXTINF:-1,Токио Центр Прогулка 24/7
+#EXTGRP:Stream YouTube
+https://youtu.be/gC4dJGHWwDU
 #EXTINF:-1,Korea Live Seoul
 #EXTGRP:Stream YouTube
 https://youtu.be/5wyRKlkmSmY
