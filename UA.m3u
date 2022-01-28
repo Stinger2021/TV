@@ -2514,13 +2514,7 @@ https://stream.dpsu.gov.ua:5101/publicLive/194/mainStream?dvr=false&proto=hls&au
 https://stream.dpsu.gov.ua:5101/publicLive/196/mainStream?dvr=false&proto=hls&autoplay=true
 #EXTINF:-1,UkrLive
 #EXTGRP:Україна YouTube
-https://youtu.be/Y8RX2QW61Cc
-#EXTINF:-1,UkrLive
-#EXTGRP:Україна YouTube
-https://www.youtube.com/channel/UCill2Ekj5IGEGJzTo2R12xw
-#EXTINF:-1,UKRLIFE.TV
-#EXTGRP:Україна YouTube
-https://youtu.be/fyUwgRlb7qg	
+https://www.youtube.com/channel/UCill2Ekj5IGEGJzTo2R12xw	
 #EXTINF:-1,UkrLive
 #EXTGRP:Україна YouTube
 https://youtu.be/4ZTJOXtfUho
@@ -2532,7 +2526,10 @@ https://youtu.be/ErX-LbZW-zE
 https://youtu.be/pejy39fdT04
 #EXTINF:-1,Рада
 #EXTGRP:Україна YouTube
-https://youtu.be/gJefMEapHuE
+https://www.youtube.com/channel/UC5V8mErVFOpcQXEb3y9IMZw
+#EXTINF:-1,UKRLIFE.TV
+#EXTGRP:Україна YouTube
+https://youtu.be/fyUwgRlb7qg
 #EXTINF:-1,Україна 24
 #EXTGRP:Україна YouTube
 https://youtu.be/IgSn1Z2rq6E
