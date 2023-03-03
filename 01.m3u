@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 
-#EXTINF:-1,Там, где гнездятся орлы (1968) aspect-ratio=16:9
+#EXTINF:-1 aspect-ratio=16:9,Там, где гнездятся орлы (1968)
 #EXTGRP:Фільми
 https://nl06.cdnsqu.com/s/FXFSMA11Jl1Ow6T1svKPhhSXnkFBQUFBQUFBQUFBQjFBWmhCUUNC/hd_60/Where.Eagles.Dare.1968.MVO.BDRip.1080p_480.mp4
 
