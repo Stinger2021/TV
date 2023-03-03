@@ -1,4 +1,21 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+
+#EXTINF:-1,Там, где гнездятся орлы (1968)
+#EXTGRP:Фільми
+https://nl06.cdnsqu.com/s/FXFSMA11Jl1Ow6T1svKPhhSXnkFBQUFBQUFBQUFBQjFBWmhCUUNC/hd_60/Where.Eagles.Dare.1968.MVO.BDRip.1080p_480.mp4
+
+#EXTINF:-1,Железный крест (1977)
+#EXTGRP:Фільми
+https://nl06.cdnsqu.com/s/FXFSu5.kQk9DTX.3eNfNuHeRs0FBQUFBQUFBQUFBQjFBYVJRUUNC/hd-nf19/Cross.of.Iron.1977.BDRip.1080p_480.mp4
+
+#EXTINF:-1,Железный крест (1977)
+#EXTGRP:Фільми
+https://nl06.cdnsqu.com/s/FXFSu5.kQk9DTX.3eNfNuHeRs0FBQUFBQUFBQUFBQjFBYVJRUUNC/hd-nf19/Cross.of.Iron.1977.BDRip.1080p_480.mp4
+
+#EXTINF:-1,Отряд «Дельта» (1986)
+#EXTGRP:Фільми
+https://nl0-1.cdnsqu.com/s/FXFS1Z757Ok40Nrt0v3PC-MkOkFBQUFBQUFBQUFBQjFBYVJCUUNC/hd_720v/otrad.delta_480.mp4?vs1-origin
+
 #EXTINF:-1,Серия 01
 #EXTGRP:Пуаро (1989) - Сезон 1
 https://nl06.cdnsqu.com/s/FXFSD4p8nCPN6Fn-Rej-opnzBUFBQUFBQUFBQUFBQjFQWGxBQUNC/Agatha-Christies-Poirot-1989-BBC/s01e01_480.mp4
